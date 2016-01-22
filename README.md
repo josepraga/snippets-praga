@@ -1,6 +1,10 @@
 # snippets-praga
 Snippets 
 
+Run Rspec
+    
+    bundle exec rspec
+    
 Codacy Gem
 
     gem 'codacy-coverage', :require => false
