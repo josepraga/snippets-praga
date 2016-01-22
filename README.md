@@ -1,6 +1,14 @@
 # snippets-praga
 Snippets 
 
+Codacy 1:
+
+    export CODACY_PROJECT_TOKEN=
+    
+Codacy 2:
+
+    export CODACY_RUN_LOCAL=true
+
 Run Rspec
     
     bundle exec rspec
