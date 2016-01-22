@@ -1,6 +1,11 @@
 # snippets-praga
 Snippets 
 
+Rails Range
+    Game.where(date_of_game: Date.current..(Date.current + 45.days))
+    
+Game.where(date_of_game: Date.current..(Date.current + 45.days))
+
 Codacy 1:
 
     export CODACY_PROJECT_TOKEN=
