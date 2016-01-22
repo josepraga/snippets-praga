@@ -3,7 +3,7 @@ Snippets
 
 Codacy Gem
 
-    https://github.com/codacy/ruby-codacy-coverage
+    gem 'codacy-coverage', :require => false
 
 Bootstrap slider
 
